@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Studio",
+  "description": "A high-performance AI image generation tool powered by Google's Gemini 2.5 Flash Image model. Create stunning visuals from text prompts instantly.",
+  "requestFramePermissions": []
+}
